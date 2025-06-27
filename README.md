@@ -6,8 +6,8 @@
 
 Start a virtual environment using pipenv
 
-  **pipenv install
-  pipenv shell**
+  **pipenv install**
+  **pipenv shell**
   
 Start the API
 

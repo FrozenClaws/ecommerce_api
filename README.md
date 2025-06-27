@@ -15,7 +15,11 @@ Start the API
   **python manage.py runserver**
 
 **admin/** for Admin page
+
 **api/swagger** for Swagger UI
+
 **api/products** for Product management
+
 **api/cart** for Cart management
+
 **api/discount** for Discount management
